@@ -1,2 +1,3 @@
 # Learning-Flask
-Repositório dedicado ao microframework de python web : Flask
+
+# Com a orientação da internet e o auxílio e inspiração de Kaio Kassiano eu pretendo aprender e trabalhar com o microframework Flask...
